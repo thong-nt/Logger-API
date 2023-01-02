@@ -1,0 +1,26 @@
+[Mon Jan 02 23:40:12 2023] - [1]	- Logger_START
+[Mon Jan 02 23:40:13 2023] - [4]	- Message from thread 2
+[Mon Jan 02 23:40:13 2023] - [5]	- Message from thread 3
+[Mon Jan 02 23:40:16 2023] - [5]	- Message from thread 3
+[Mon Jan 02 23:40:16 2023] - [5]	- Message from thread 3
+[Mon Jan 02 23:40:16 2023] - [5]	- Message from thread 3
+[Mon Jan 02 23:40:16 2023] - [5]	- Message from thread 3
+[Mon Jan 02 23:40:16 2023] - [5]	- Message from thread 3
+[Mon Jan 02 23:40:16 2023] - [5]	- Message from thread 3
+[Mon Jan 02 23:40:16 2023] - [5]	- Message from thread 3
+[Mon Jan 02 23:40:16 2023] - [5]	- Message from thread 3
+[Mon Jan 02 23:40:16 2023] - [5]	- Message from thread 3
+[Mon Jan 02 23:40:16 2023] - [5]	- Message from thread 3
+[Mon Jan 02 23:40:16 2023] - [5]	- Thread_destroy
+[Mon Jan 02 23:40:16 2023] - [4]	- Message from thread 2
+[Mon Jan 02 23:40:16 2023] - [4]	- Message from thread 2
+[Mon Jan 02 23:40:16 2023] - [4]	- Message from thread 2
+[Mon Jan 02 23:40:16 2023] - [4]	- Message from thread 2
+[Mon Jan 02 23:40:16 2023] - [4]	- Message from thread 2
+[Mon Jan 02 23:40:16 2023] - [4]	- Message from thread 2
+[Mon Jan 02 23:40:16 2023] - [4]	- Message from thread 2
+[Mon Jan 02 23:40:16 2023] - [4]	- Message from thread 2
+[Mon Jan 02 23:40:16 2023] - [4]	- Message from thread 2
+[Mon Jan 02 23:40:16 2023] - [4]	- Message from thread 2
+[Mon Jan 02 23:40:16 2023] - [4]	- Thread_destroy
+[Mon Jan 02 23:40:23 2023] - [1]	- Logger_STOP
